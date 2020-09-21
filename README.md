@@ -5,4 +5,4 @@ Brasil, Belo Horizonte, MG
 
 ### Sobre mim
 Atualmente focado em aprender desenvolvimento web com ênfase em front end, seguindo a stack de React e suas libs. <br>
-Curiosidade em tecnologias backend como NodeJS e Headless CMS como strapi
+Curiosidade em tecnologias backend como NodeJS e Headless CMS como strapi e até mesmo Python para ML.
