@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Caio Grossi</h1>
-<h3 align="center">Estudante de desenvolvimento web (Front-End).</h3>
+<h1>Hi 👋, I'm Caio Grossi</h1>
+<h3>Estudante de desenvolvimento web (Front-End).</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
