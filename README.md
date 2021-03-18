@@ -8,6 +8,7 @@ Estudante de desenvolvimento web e aluno de Redes de Computadores do CEFET-MG. A
 <p align="left">
 <a href="https://linkedin.com/in/caio-grossi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="caio-grossi" height="30" width="40" /></a>
   <a href="mailto:caiogrossi6@gmail.com" target="blank"><img align="center" src="https://camo.githubusercontent.com/db5d75456f8a24e58f37f52933673b8aa81c57d2618d73a6aac11f144326edca/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e342e302f69636f6e732f6d61696c2d646f742d72752e737667" alt="mail to caio grossi" height="30" width:"40"/></a>
+  <a href="https://www.hackerrank.com/caiogrossi6" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="caiogrossi6" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
