@@ -7,7 +7,9 @@ Estudante de desenvolvimento web e aluno de Redes de Computadores do CEFET-MG. A
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/caio-grossi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="caio-grossi" height="30" width="40" /></a>
-  <a href="mailto:caiogrossi6@gmail.com" target="blank"><img align="center" src="https://camo.githubusercontent.com/db5d75456f8a24e58f37f52933673b8aa81c57d2618d73a6aac11f144326edca/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e342e302f69636f6e732f6d61696c2d646f742d72752e737667" alt="mail to caio grossi" height="30" width:"40"/></a>
+  <a href="mailto:caiogrossi6@gmail.com" target="blank">
+    <img src="https://camo.githubusercontent.com/a8c761056c822bf3e282450650e6c75bec1fb22acff08241e477faf8572b4b7e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d7265643f7374796c653d666c6174266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Gmail-red?style=flat&amp;logo=Gmail&amp;logoColor=white" style="max-width:100%;">
+  </a>
   <a href="https://www.hackerrank.com/caiogrossi6" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="caiogrossi6" height="30" width="40" /></a>
 </p>
 
