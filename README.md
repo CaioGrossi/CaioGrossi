@@ -19,7 +19,7 @@ Estudante de desenvolvimento web e aluno de Redes de Computadores do CEFET-MG. A
 </a>
 
 <a href="https://www.hackerrank.com/caiogrossi6">
-   <img src="https://img.shields.io/badge/hackerrank-%230077B5.svg?&style=for-the-badge&logo=hackerrank&logoColor=white&color=brightgreen">
+   <img src="https://img.shields.io/badge/hackerrank-%230077B5.svg?&style=for-the-badge&logo=hackerrank&logoColor=white&color=success">
   <a/>
 </p>
 
