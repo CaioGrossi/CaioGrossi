@@ -1,8 +1,8 @@
 <h1>Hi 👋, I'm Caio Grossi</h1>
 <h3>
-  ```
+  
 Estudante de desenvolvimento web e aluno de Redes de Computadores do CEFET-MG. Atualmente desenvolvendo um sistema de correção de redações online como bolsista pelo PRODEP.]
-  ```
+  
 </h3>  
   
 
