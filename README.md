@@ -1,8 +1,6 @@
 <h1>Hi 👋, I'm Caio Grossi</h1>
 <h3>
-  
-Estudante de desenvolvimento web e aluno de Redes de Computadores do CEFET-MG. Atualmente desenvolvendo um sistema de correção de redações online como estagiário pelo PRODEPT.
-  
+  Estagiário de desenvolvimento web e aluno do último ano do curso de Redes De Computadores no CEFET-MG. Entusiasta de desenvolvimento web com destaque nas tecnologias React, NextJS, NodeJS, Typescript e Django.
 </h3>  
   
 
