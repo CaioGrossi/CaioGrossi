@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Caio Grossi</h1>
 <h3>
-  Estagiário de desenvolvimento web e aluno do último ano do curso de Redes De Computadores no CEFET-MG. Entusiasta de desenvolvimento web com destaque nas tecnologias React, NextJS, NodeJS, Typescript e Django.
+  Analista de desenvolvimento de software e aluno do último ano do curso de Redes De Computadores no CEFET-MG. Entusiasta de desenvolvimento web com destaque nas tecnologias React, NextJS, NodeJS, Typescript e Django.
 </h3>  
   
 
