@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Caio Grossi</h1>
 <h3>
- Software Developer Jr. e aluno do último ano do curso de Redes De Computadores no CEFET-MG. Entusiasta de desenvolvimento web com destaque nas tecnologias React, Typescript, Python e Django.
+ Software Developer Jr. e formado em Redes De Computadores pelo CEFET-MG. Entusiasta de desenvolvimento web com destaque nas tecnologias React, Typescript, Python e Django.
 </h3>  
   
 
