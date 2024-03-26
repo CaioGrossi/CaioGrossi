@@ -26,5 +26,9 @@
 
   <a href="https://www.hackerrank.com/caiogrossi6">
    <img src="https://img.shields.io/badge/hackerrank-%230077B5.svg?&style=for-the-badge&logo=hackerrank&logoColor=white&color=success">
-  <a/>
+  </a>
+
+   <a href="https://grossis.hashnode.dev/">
+        <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white'" >
+    </a>
 </details>
