@@ -6,7 +6,7 @@
   <summary> <b>🤔 Sobre mim </b>  <i>(Clique Aqui)</i> </summary>
   <br>
   <ul>
-    <li>Desenvolvedor de Software Pleno na AmoPromo</li>
+    <li>Desenvolvedor de Software Pleno no LuizaLabs</li>
     <li>Formado em Redes de Computadores pelo CEFET - MG</li>
     <li>Graduando em Sistemas de Informação pela PUC - MG</li>
     <li>Python & Golang</li>
